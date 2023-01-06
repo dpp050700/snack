@@ -1,0 +1,45 @@
+{
+  "0": {
+    "buildIndex": 0,
+    "manifest": {
+      "name": "@snackjs/cli",
+      "version": "0.0.1",
+      "description": "",
+      "main": "src/index.ts",
+      "bin": {
+        "snack": "dist/index.js"
+      },
+      "scripts": {
+        "dev": "tsc --watch"
+      },
+      "files": [
+        "dist"
+      ],
+      "keywords": [],
+      "author": "",
+      "license": "ISC"
+    },
+    "rootDir": "/Users/daipengpeng/study/code/脚手架/snack-cli/packages/cli",
+    "binsDir": "/Users/daipengpeng/study/code/脚手架/snack-cli/packages/cli/node_modules/.bin",
+    "id": "packages/cli",
+    "modulesDir": "/Users/daipengpeng/study/code/脚手架/snack-cli/packages/cli/node_modules",
+    "originalManifest": {
+      "name": "@snackjs/cli",
+      "version": "0.0.1",
+      "description": "",
+      "main": "src/index.ts",
+      "bin": {
+        "snack": "dist/index.js"
+      },
+      "scripts": {
+        "dev": "tsc --watch"
+      },
+      "files": [
+        "dist"
+      ],
+      "keywords": [],
+      "author": "",
+      "license": "ISC"
+    }
+  }
+}
